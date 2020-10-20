@@ -1,5 +1,6 @@
 # Side Project
-This is my repository for the "Time in a Month" project I made during Base Camp Coding Academy.
+This is my repository for my "Time in a Month" project, 
+the first project that I made during Base Camp Coding Academy.
 
 ## Time-in-a-month
 This was my first side project. 
